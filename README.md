@@ -47,7 +47,6 @@ Create required databases (e.g., user_db, activity_db) and update the database c
 
 
 3. Run the Services
-4. 
 Start services in this order:
 
 Eureka Server
